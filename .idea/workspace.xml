@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="450ae323-b92d-4e6b-9fee-f12c393fd634" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/888763.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/menuV1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/odeme v1odemev1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/error.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.pug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.jade" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1i3IYMpzMwVnuf3FCB2T75rpREf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.12.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.11.2" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Qarson-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\faiks\WebstormProjects\Qarson\public\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="450ae323-b92d-4e6b-9fee-f12c393fd634" name="Default Changelist" comment="" />
+      <created>1601129894417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601129894417</updated>
+      <workItem from="1601129895477" duration="15028000" />
+      <workItem from="1602172735528" duration="50000" />
+      <workItem from="1602172830503" duration="1587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2245" y="63" key="FileChooserDialogImpl" timestamp="1602175309909">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state x="2245" y="63" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602175309909" />
+    <state x="2343" y="206" key="Github.ShareDialog" timestamp="1601130020091">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state x="2343" y="206" key="Github.ShareDialog/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1601130020091" />
+    <state x="2275" y="6" key="Github.UntrackedFilesDialog" timestamp="1601130026827">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state x="2275" y="6" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1601130026827" />
+    <state width="525" height="155" key="GridCell.Tab.0.bottom" timestamp="1602175895666">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state width="757" height="132" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1088.614@0.0.1536.824" timestamp="1601729865944" />
+    <state width="525" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602175895666" />
+    <state width="525" height="155" key="GridCell.Tab.0.center" timestamp="1602175895666">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state width="757" height="132" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1088.614@0.0.1536.824" timestamp="1601729865944" />
+    <state width="525" height="155" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602175895666" />
+    <state width="525" height="155" key="GridCell.Tab.0.left" timestamp="1602175895666">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state width="757" height="132" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1088.614@0.0.1536.824" timestamp="1601729865944" />
+    <state width="525" height="155" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602175895666" />
+    <state width="525" height="155" key="GridCell.Tab.0.right" timestamp="1602175895666">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state width="757" height="132" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1088.614@0.0.1536.824" timestamp="1601729865944" />
+    <state width="525" height="155" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602175895666" />
+    <state x="1973" y="0" key="SettingsEditor" timestamp="1602171055423">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state x="1973" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602171055423" />
+    <state x="2057" y="41" key="Vcs.Push.Dialog.v2" timestamp="1601157880988">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state x="2057" y="41" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1601157880988" />
+    <state x="2282" y="222" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602172241592">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state x="2282" y="222" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602172241592" />
+    <state x="511" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1601721833347" />
+    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1601976514305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1601976514305" />
+    <state x="2127" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1602170818760">
+      <screen x="1920" y="0" width="1088" height="614" />
+    </state>
+    <state x="2127" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1088.614@1920.0.1088.614" timestamp="1602170818760" />
+  </component>
+</project>
